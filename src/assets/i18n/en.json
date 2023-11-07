@@ -1,0 +1,4 @@
+{
+    "TITLE": "Welcome",
+    "CONTENT": "This is a sample text.This is an additional paragraph.Here is a new paragraph in English.With these updates, you will have a new paragraph in both French and English, and you can switch between the languages to see the appropriate content. Make sure to keep your translation files (fr.json and en.json)"
+   }
